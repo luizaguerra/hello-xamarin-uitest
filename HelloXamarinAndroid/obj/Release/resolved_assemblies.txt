@@ -1,0 +1,7 @@
+C:\Users\Luiza\Documents\Palestra\App\HelloXamarinAndroid\HelloXamarinAndroid\obj\Release\android\assets\HelloXamarinAndroid.dll
+C:\Users\Luiza\Documents\Palestra\App\HelloXamarinAndroid\HelloXamarinAndroid\obj\Release\android\assets\Java.Interop.dll
+C:\Users\Luiza\Documents\Palestra\App\HelloXamarinAndroid\HelloXamarinAndroid\obj\Release\android\assets\Mono.Android.dll
+C:\Users\Luiza\Documents\Palestra\App\HelloXamarinAndroid\HelloXamarinAndroid\obj\Release\android\assets\mscorlib.dll
+C:\Users\Luiza\Documents\Palestra\App\HelloXamarinAndroid\HelloXamarinAndroid\obj\Release\android\assets\System.Core.dll
+C:\Users\Luiza\Documents\Palestra\App\HelloXamarinAndroid\HelloXamarinAndroid\obj\Release\android\assets\System.dll
+C:\Users\Luiza\Documents\Palestra\App\HelloXamarinAndroid\HelloXamarinAndroid\obj\Release\android\assets\System.Runtime.Serialization.dll

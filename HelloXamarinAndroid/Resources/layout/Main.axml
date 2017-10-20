@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp">
+    <TextView
+        android:text="Digite a quantidade e o preço do que deseja comprar"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:gravity="center" />
+    <ImageView
+        android:layout_width="80dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="80dp"
+        android:layout_marginRight="80dp"
+        android:id="@+id/agua"
+        android:src="@drawable/water" />
+    <Spinner
+        android:id="@+id/qtdagua"
+        android:layout_marginTop="80dp"
+        android:layout_width="80dp"
+        android:layout_marginRight="160dp"
+        android:layout_height="50dp"
+        android:layout_alignParentRight="true"
+        android:gravity="center" />
+    <TextView
+        android:text="R$"
+        android:layout_marginTop="80dp"
+        android:layout_width="80dp"
+        android:layout_marginRight="80dp"
+        android:layout_height="50dp"
+        android:layout_alignParentRight="true"
+        android:gravity="center" />
+    <EditText
+        android:text=""
+        android:inputType="numberDecimal"
+        android:id="@+id/precoagua"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="80dp"
+        android:layout_alignParentRight="true"
+        android:gravity="center" />
+    <ImageView
+        android:layout_width="80dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="140dp"
+        android:layout_marginRight="100dp"
+        android:id="@+id/refri"
+        android:src="@drawable/soda" />
+    <Spinner
+        android:id="@+id/qtdrefri"
+        android:layout_marginTop="140dp"
+        android:layout_width="80dp"
+        android:layout_marginRight="160dp"
+        android:layout_height="50dp"
+        android:layout_alignParentRight="true"
+        android:gravity="center" />
+    <TextView
+        android:text="R$"
+        android:layout_marginTop="140dp"
+        android:layout_width="80dp"
+        android:layout_marginRight="80dp"
+        android:layout_height="50dp"
+        android:layout_alignParentRight="true"
+        android:gravity="center" />
+    <EditText
+        android:text=""
+        android:inputType="numberDecimal"
+        android:id="@+id/precorefri"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="140dp"
+        android:layout_alignParentRight="true"
+        android:gravity="center" />
+    <ImageView
+        android:layout_width="80dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="200dp"
+        android:layout_marginRight="100dp"
+        android:id="@+id/bolo"
+        android:src="@drawable/pancakes" />
+    <Spinner
+        android:id="@+id/qtdbolo"
+        android:layout_marginTop="200dp"
+        android:layout_width="80dp"
+        android:layout_marginRight="160dp"
+        android:layout_height="50dp"
+        android:layout_alignParentRight="true"
+        android:gravity="center" />
+    <TextView
+        android:text="R$"
+        android:layout_marginTop="200dp"
+        android:layout_width="80dp"
+        android:layout_marginRight="80dp"
+        android:layout_height="50dp"
+        android:layout_alignParentRight="true"
+        android:gravity="center" />
+    <EditText
+        android:text=""
+        android:inputType="numberDecimal"
+        android:id="@+id/precobolo"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="200dp"
+        android:layout_alignParentRight="true"
+        android:gravity="center" />
+    <ImageView
+        android:layout_width="80dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="260dp"
+        android:layout_marginRight="100dp"
+        android:id="@+id/burger"
+        android:src="@drawable/burger" />
+    <Spinner
+        android:id="@+id/qtdburger"
+        android:layout_marginTop="260dp"
+        android:layout_width="80dp"
+        android:layout_marginRight="160dp"
+        android:layout_height="50dp"
+        android:layout_alignParentRight="true"
+        android:gravity="center" />
+    <TextView
+        android:text="R$"
+        android:layout_marginTop="260dp"
+        android:layout_width="80dp"
+        android:layout_marginRight="80dp"
+        android:layout_height="50dp"
+        android:layout_alignParentRight="true"
+        android:gravity="center" />
+    <EditText
+        android:text=""
+        android:inputType="numberDecimal"
+        android:id="@+id/precoburger"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="260dp"
+        android:layout_alignParentRight="true"
+        android:gravity="center" />
+    <Button
+        android:id="@+id/btncalcular"
+        android:background="@drawable/calculator1"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="360dp"
+        android:layout_alignParentRight="true"
+        android:gravity="center" />
+</RelativeLayout>
